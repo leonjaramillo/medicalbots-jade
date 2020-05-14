@@ -4,3 +4,5 @@ A proof of concept about using JADE for Agent-Oriented Programming in Java using
 For testing purposes, it has to be run with the next parameters (To put in Run configuration at the IDE or in the command line):
 
     -gui -agents t_agent:com.ponents.medicalbots.agents.AgenteTriage;h_agent:com.ponents.medicalbots.agents.AgenteHistoria
+
+Also, the main class should be set as jade.Boot
